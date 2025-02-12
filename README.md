@@ -1,6 +1,6 @@
-# Hidden Markov Models Challenge 🎲🤖
+# Hidden Markov Models 🎲🤖
 
-In this challenge, we dive into various algorithms used with Hidden Markov Models (HMMs) to analyze sequential data and make predictions. An HMM is a statistical model where the system being modeled is assumed to be a Markov process with unobservable (hidden) states. This challenge is divided into multiple steps, each tackling a specific algorithm. By completing these steps, you'll gain hands-on experience with HMM algorithms widely used in speech recognition 🎤, bioinformatics 🧬, and natural language processing 📝!
+Dived into various algorithms used with Hidden Markov Models (HMMs) to analyze sequential data and make predictions. An HMM is a statistical model where the system being modeled is assumed to be a Markov process with unobservable (hidden) states. This challenge is divided into multiple steps, each tackling a specific algorithm. By completing these steps, you'll gain hands-on experience with HMM algorithms widely used in speech recognition 🎤, bioinformatics 🧬, and natural language processing 📝!
 
 ## Challenge Breakdown 🔍
 
